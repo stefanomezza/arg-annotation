@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<script
+		  src="https://code.jquery.com/jquery-3.7.1.min.js"
+		  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+		  crossorigin="anonymous">
+		</script>
+		<script src="annotation.js"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet" href="custom.css"/>
+		<link rel="stylesheet" href="gpt.css"/>
+	</head>
+	<body>
+		<div id="instruction_div">
+			<h1>Argument Data Annotation</h1>
+			<h5>This experiment aims at comparing two different methods of generating pertinent responses in an online debate.<br/>
+			Read the following debate and the two alternative responses proposed, and answer the four questions below.</h5>
+		</div>
+		<div id="annotation_div">
+			<div id="chat-container">
+				<div id="chat-box">
+
+				</div>
+			</div>
+			<div id="response-container">
+				<div id="response-chat-box">
+
+				</div>
+			</div>
+			<div id="question-container">
+				<div class="qdiv"><h4 class="question">(i) Which response (A or B) is more <span style="font-weight: bold">relevant</span>?</h4>
+					<div class="buttons">
+						<button type="button" id ='q1a' class="resp_btn resp_a btn btn-primary" q="1" answer=1 onclick="choose()">Response A</button>
+						<button type="button" id ='q1b' class="resp_btn resp_b btn btn-primary" q="1" answer=2 onclick="choose()">Response B</button>
+					</div>
+				</div>
+				<div class="qdiv"><h4 class="question">(ii) Which response (A or B) is more clearly <span style="font-weight: bold">opposing </span>Speaker 3?</h4>
+					<div class="buttons">
+						<button type="button" id ='q2a' class="resp_btn resp_a btn btn-primary" q="2" answer=1 onclick="choose()">Response A</button>
+						<button type="button" id ='q2b' class="resp_btn resp_b btn btn-primary" q="2" answer=2 onclick="choose()">Response B</button>
+					</div>
+				</div>
+				<div class="qdiv"><h4 class="question">(iii) Which response (A or B) is more <span style="font-weight: bold">factually accurate</span>?</h4>
+					<div class="buttons">
+						<button type="button" id ='q3a' class="resp_btn resp_a btn btn-primary" q="3" answer=1 onclick="choose()">Response A</button>
+						<button type="button" id ='q3b' class="resp_btn resp_b btn btn-primary" q="3" answer=2 onclick="choose()">Response B</button>
+					</div>
+				</div>
+				<div class="qdiv"><h4 class="question">(iv) Which response (A or B) is <span style="font-weight: bold">better</span> overall, in the context of the debate?</h4>
+					<div class="buttons">
+						<button type="button" id ='q4a' class="resp_btn resp_a btn btn-primary" q="4" answer=1 onclick="choose()">Response A</button>
+						<button type="button" id ='q4b' class="resp_btn resp_b btn btn-primary" q="4" answer=2 onclick="choose()">Response B</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

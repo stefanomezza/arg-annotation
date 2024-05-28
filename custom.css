@@ -1,0 +1,45 @@
+#instruction_div, #annotation_div {
+    text-align: center;
+}
+
+#annotation_div{
+    margin-top:2%;
+}
+.chat-turn{
+    margin-bottom:50px;
+}
+.buttons {
+    float:right;
+    display:inline-block;
+    margin-right:30%
+}
+#chat-container, #response-container{
+    display:inline-block;
+}
+
+
+#question-container{
+    text-align:left;
+}
+
+.question{
+    display:inline-block;
+}
+
+.qdiv{
+    margin-top:2%;
+}
+.resp_b{
+    background:orange;
+    border:none;
+}
+
+.resp_a{
+    background:aquamarine;
+    border:none;
+}
+.chosen{
+    border: revert;
+    border-width: 4px;
+    border-color: black;
+}
