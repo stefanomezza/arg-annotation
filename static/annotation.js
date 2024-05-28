@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 load_debates = () => {
     return new Promise((resolve, reject) => {
-        fetch("http://127.0.0.1:1234/get_data")
+        fetch("http://66.29.151.195:1234/get_data")
         .then((d) => d.json())
         .then((r) => resolve(r))
     })
@@ -41,7 +41,7 @@ choose = () => {
         debates[k]['best_overall'].push($(".chosen[q=4]").attr("answer"))
         var obj = {}
         obj[k] = debates[k]
-        fetch("http://127.0.0.1:1234/send_response", {
+        fetch("http://66.29.151.195:1234/send_response", {
                 method: "POST",
                 contentType: "application/json",
                 body: JSON.stringify(obj)

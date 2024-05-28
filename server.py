@@ -21,8 +21,6 @@ def check_pass():
         exp = json.load(f)
     k = list(content.keys())[0]
     v = list(content.values())[0]
-    print(k)
-    print(v)
     exp[k] = v
     with open(f"data/{EXPERIMENT}", 'w') as f:
         json.dump(exp, f, indent=4)
@@ -35,6 +33,10 @@ def get_data():
         content = json.load(f)
     return json.dumps(content)
 
+
+@app.route('/<path:path>')
+def serve_static(path):
+        return send_from_directory('static/', path)
 
 if __name__ == "__main__":
     try:
