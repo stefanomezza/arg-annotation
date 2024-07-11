@@ -27,7 +27,7 @@ $(document).ready(function(){
 
 load_debates = () => {
     return new Promise((resolve, reject) => {
-        fetch("http://127.0.0.1:1234/get_data", {
+        fetch("http://66.29.151.195:1234/get_data", {
             method: "POST",
             contentType: "application/json",
             body: JSON.stringify({"pass": password})
