@@ -66,10 +66,7 @@ choose = () => {
                         (exp_idx) => debates[exp_idx]['argumentativeness'].length == 0
                     )
                 ]
-                if (current_idx == null)
-                    alert("Annotation experiment is finished! Please contact s.mezza@unsw.edu.au to conclude the experiment.")
-                else
-                    show_current_debate()
+                show_current_debate()
             }
             else{
                 alert("An error has occurred during the submission. Please interrupt the annotation and contact s.mezza@unsw.edu.au")
@@ -79,6 +76,11 @@ choose = () => {
     }
 }
 show_current_debate = () => {
+
+    if (current_idx == null){
+        alert("Annotation experiment is finished! Please contact s.mezza@unsw.edu.au to conclude the experiment.")
+        return;
+    }
     var debate = debates[current_idx];
 
     $(".chosen").removeClass("chosen")
