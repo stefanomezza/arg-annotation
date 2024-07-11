@@ -1,0 +1,1296 @@
+{
+    "0": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT could cause irreparable social harms.",
+                "Support"
+            ],
+            [
+                "ChatGPT will seriously harm education .",
+                "Support"
+            ],
+            [
+                "ChatGPT will improve education by helping teachers and professors reduce their strain and workload.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Teachers can use ChatGPT to generate lesson plans, which would otherwise take hours of their time. This would allow them to focus on teaching students instead. ChatGPT could also be used to answer questions from students, saving teachers' time and effort.",
+        "pred_2": " ChatGPT can assist with grading assignments, allowing teachers to focus on other aspects of teaching.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "ChatGPT can be used by educators to design new lesson plans or activities to keep students engaged in the classroom."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "1": {
+        "history": [
+            [
+                "South Africa's ICJ case against Israel is legitimate.",
+                null
+            ],
+            [
+                "The international community has a categorical imperative to prevent further violence occurring between Israel and Gaza.",
+                "Support"
+            ],
+            [
+                "Accusing Israel alone of genocide ignores and possibly encourages similar crimes committed by Hamas.",
+                "Attack"
+            ],
+            [
+                "While Israel's genocidal intent is vague, Hamas has been more explicit in its expression of genocidal intent.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Hamas's charter expresses a desire to destroy Israel, but does not necessarily imply that it intends to wipe out all Jews. The charter also contains passages that emphasize the importance of peaceful coexistence with Israelis. Therefore, it can be argued that Hamas's intentions are not purely genocidal.",
+        "pred_2": " It is morally wrong to accuse people of committing crimes they did not commit. In addition, there is no evidence that Hamas has actually committed a genocide. Hamas has not been proven to have committed genocide, and thus, the accusation should be considered immoral",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Hamas has revised its stance over the years, showing more support for peaceful coexistence in the region with Israel."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "2": {
+        "history": [
+            [
+                "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                null
+            ],
+            [
+                "Attempts to negotiate a two-state solution have repeatedly failed . The continued pursuit of this concept may exacerbate political and diplomatic tensions between Israeli and Palestinian authorities, which could have calamatious consequences for inhabitants of the region.",
+                "Attack"
+            ],
+            [
+                "The two-state solution is unlikely to ever be successful because Israel and Palestine have demands that are unacceptable to each other.",
+                "Support"
+            ],
+            [
+                "In international conflict, the role of a mediator is to help the two countries find a mutually acceptable solution. Countries like Jordan and Turkey are best placed to perform this role in the Israel-Palestine conflict.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Canada has shown itself capable of providing impartial mediation in conflicts elsewhere. It would be able to do so in the Israel-Palestine conflict.",
+        "pred_2": " The mediators do not have a clear mandate from both parties. The mediators lack authority over Israel and Palestine, which limits their ability to make decisions or enforce them.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Jordan and Turkey are unlikely to be acceptable mediators for Israel, as the former has previously waged war on Israel and the latter has tacitly supported Hamas , which Israel considers a terrorist organisation."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "3": {
+        "history": [
+            [
+                "The US should sell weapons with nuclear capabilities to Ukraine.",
+                null
+            ],
+            [
+                "The United States is morally and politically obliged to provide Ukraine with whatever it needs to deter Russian aggression, including nuclear weapons.",
+                "Support"
+            ],
+            [
+                "The US does not have the right or jurisdiction to act independently on the matter.",
+                "Attack"
+            ],
+            [
+                "Both Russia and Ukraine are sovereign countries and are not under the authority of the United States.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The United States has an obligation to protect its allies from external threats. This includes providing military support to Ukraine. The war between Ukraine and Russia is considered to be a conflict between two neighboring states that pose a threat to global security. In such circumstances, it is important for the US to demonstrate its commitment to defending its allies by providing military assistance. The United States has provided aid to other countries facing similar conflicts in the past, including South Korea during the Korean War and Israel during several wars against neighboring nations",
+        "pred_2": " The US has an obligation to act as an international superpower to maintain peace in the world. This obligation supersedes national sovereignty.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "The principle of sovereignty refers to internal matters and does not apply when countries are engaged in external conflict.",
+            "Russia violated the sovereignty of Ukraine by invading it and, hence, does not deserve to have its sovereignty respected."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "4": {
+        "history": [
+            [
+                "HBO should reboot Harry Potter.",
+                null
+            ],
+            [
+                "The Harry Potter reboot as a television series would be more faithful to the original book series.",
+                "Support"
+            ],
+            [
+                "HBO Max and Warner Bros. have confirmed they plan to adapt the books authentically .",
+                "Support"
+            ],
+            [
+                "HBO adaptations are usually faithful to the source material.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The Harry Potter movies have been criticized before",
+        "pred_2": " HBO's Game of Thrones is one example of an adaptation that deviates significantly from its source material.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "HBO's adaptations often tend to prioritise making content suitable for modern audiences over faithfulness to the source material."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "5": {
+        "history": [
+            [
+                "The collapse of the Silicon Valley Bank (SVB) is the start of an economic crisis.",
+                null
+            ],
+            [
+                "While the collapse of the SVB has led to negative consequences, these are localized.",
+                "Attack"
+            ],
+            [
+                "International markets reacted strongly to the SVB collapse.",
+                "Attack"
+            ],
+            [
+                "Asia-Pacific markets have begun to drop in response to the ongoing turmoil surrounding Credit Suisse.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The decline in Asian stocks was caused by inflationary pressures, rather than the SVB collapse. Therefore, it does not indicate that the crisis is about to spread. Inflation remains a global problem that will continue to affect the economy even after the banking crisis has passed. Inflation is likely to persist for years to come. It will take time to bring it under control. Thus, the current turmoil should be viewed as a temporary correction to the market. It is unlikely to be a harbinger of a long-term economic downturn",
+        "pred_2": " The bank's Asian clients are not likely to be significantly impacted by its collapse. Credit Suisse's Asian operations are profitable, which means that the region's economy will remain intact.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "The impact on Asian markets has been minimal due to differences in regulation and business models."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "6": {
+        "history": [
+            [
+                "The EU's response to the humanitarian situation following the earthquake in Turkey and Syria is sufficient.",
+                null
+            ],
+            [
+                "The response of the EU does not meet the needs of the affected nations.",
+                "Attack"
+            ],
+            [
+                "The EU cannot meet all the needs of the affected nations alone.",
+                "Attack"
+            ],
+            [
+                "The EU has not had to handle the needs of the affected nations alone; many other states have assisted Syria and Turkey after the earthquake.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " The US and China have not provided any aid to the affected nations. Therefore, the EU has had to take matters into its own hands.",
+        "pred_2": " Many countries that have helped Syria and Turkey have done so at the behest of the United States. This means they would not have otherwise been involved. Therefore, it can be argued that their assistance is more likely due to pressure from the US than genuine interest in helping the people affected by the earthquake.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Other states helping Syria and Turkey have done so because of positive relations; the same does not apply to Syria.",
+            "While many countries have supported, not all of them had the capacity to help as the EU does."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "7": {
+        "history": [
+            [
+                "IMF programs cause economic damage to the countries they're lending to.",
+                null
+            ],
+            [
+                "The poor design of IMF programs results in negative economic impacts on the countries receiving the loans.",
+                "Support"
+            ],
+            [
+                "The IMF's program of economic liberalisation is ill-suited for the growth and stability of developing nations and benefits those already developed.",
+                "Support"
+            ],
+            [
+                "The IMF's \"one-size-fits-all \" approach to economic policy fails to consider local economic, social, and political conditions.",
+                "Support"
+            ]
+        ],
+        "pred_1": " IMF policies do take into account the unique economic circumstances of each country. They provide guidelines for policymakers but allow them to make adjustments based on their local context. This flexibility is crucial for ensuring that policies are effective and sustainable. Policymakers need guidance from the international community; however, they also require room to maneuver and adapt these policies according to their specific situation. For instance, the IMF has developed policies for addressing the impact of climate change on developing economies",
+        "pred_2": " The IMF has implemented country-specific policies that take into account the unique circumstances of each nation. For example, the IMF allowed Argentina to skip some debt payments due to its economic crisis. However, these policies have been criticized as insufficient. In addition to country-specific policies, the IMF has also introduced broader reforms that address the issues faced by all countries",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "The IMF has said it has modified its approach to better suit the unique circumstances of borrower nations.",
+            "The IMF's approaches are based on policies responsible for the success of developing nations."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "8": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT will disrupt or potentially eliminate entire businesses or industries, causing harm to the economy.",
+                "Support"
+            ],
+            [
+                "ChatGPT will negatively impact the creative industry.",
+                "Support"
+            ],
+            [
+                "ChatGPT would give some an undue advantage in the creation of literary art .",
+                "Support"
+            ]
+        ],
+        "pred_1": " Artificial intelligence cannot be used to create works that are protected by copyright. AI-generated content may not be subject to copyright protection if it is based entirely on public domain information or information available under Creative Commons licenses.",
+        "pred_2": " Literary arts should be about the ideas that they represent, rather than the individuals who create them. ChatGPT would not alter the ideas that these works convey to readers. Therefore, it shouldn't affect how people view and appreciate literature. This means that ChatGPT won't give anyone an unfair advantage.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Equality of skill or ability is neither present nor important in the creative industry.",
+            "ChatGPT is poor at writing poetry ."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "9": {
+        "history": [
+            [
+                "The EU's response to the humanitarian situation following the earthquake in Turkey and Syria is sufficient.",
+                null
+            ],
+            [
+                "The EU's aid efforts towards the humanitarian crisis in Turkey and Syria are sufficient, given their limited capacity.",
+                "Support"
+            ],
+            [
+                "The EU has demonstrated effectiveness and adaptability in areas where its own interests are involved.",
+                "Attack"
+            ],
+            [
+                "The EU is right to prioritise itself over non-member countries.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " It would be more effective for the EU to address issues that affect it directly than those that do not.",
+        "pred_2": " Aid provided by the EU to other nations can indirectly benefit the EU as well, as it will lead to stronger relations between the two parties.",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "The EU's primary objective is to create economic prosperity for its member states.",
+            "The EU's member states have a shared history and cultural ties that non-member countries do not share."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "10": {
+        "history": [
+            [
+                "Hamas is a terror organization.",
+                null
+            ],
+            [
+                "Hamas is a legitimate militant group that is fighting to resist Israeli occupation.",
+                "Attack"
+            ],
+            [
+                "Hamas's charter carries heavy tones of genocidal intent , which places it squarely in the category of a fascistic terror organisation.",
+                "Attack"
+            ],
+            [
+                "Hamas' founding documents explicitly call for the eradication of Israel.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The newest version of the Hamas charter does not include any references to Israel, except for one line stating that Palestine must be freed from Israeli occupation. This is more consistent with a political rather than a military ideology.",
+        "pred_2": " The call for the eradication of Israel is not unique to Hamas. It is also a policy of the Palestinian Authority, which Hamas is closely allied with.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Hamas has historically shown willingness to accept a Palestinian state along 1967 borders, which would imply a tacit recognition of Israel."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "11": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT will disrupt or potentially eliminate entire businesses or industries, causing harm to the economy.",
+                "Support"
+            ],
+            [
+                "ChatGPT will negatively impact the creative industry.",
+                "Support"
+            ],
+            [
+                "People have cognitive biases towards creative works that are produced by humans.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Humans produce art because they are driven to express themselves; it is a fundamental aspect of human nature. Thus, people may be inclined to accept art created by humans as authentic, even if it doesn't necessarily represent reality.",
+        "pred_2": " Humans have a tendency to favor their own work over others.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "In a survey , respondents valued man-made artwork three times as much as AI-generated art.",
+            "According to Harvard psychologist Steven Pinker, authentic human connection in writing is irreplaceable by any technology."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "12": {
+        "history": [
+            [
+                "South Africa's ICJ case against Israel is legitimate.",
+                null
+            ],
+            [
+                "Israel's actions in Gaza are consistent with internationally accepted legal definitions of genocide .",
+                "Support"
+            ],
+            [
+                "The threshold for proving that a nation has intentionally committed genocidal acts is extremely high . In the case of Israel's war with Gaza, this threshold has not been met.",
+                "Attack"
+            ],
+            [
+                "The language of Israeli officials has consistently demonstrated a clear genocidal intent towards Palestinian people.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Israel's Prime Minister Naftali Bennett has stated that he does not want to harm innocent Palestinians. This demonstrates his lack of genocidal intent.",
+        "pred_2": " Israel does not have a history of committing genocide. It is unlikely that they will change their policies to commit one. Therefore, it would be unnecessary for them to use such language. It is likely that they are simply using rhetoric to deter Palestine from attacking. They are aware that Palestinians would never attempt to wipe out Jews as a group, so it serves no purpose to make such claims. They are instead trying to create a sense of fear among Palestinians to discourage attacks",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Most of the statements submitted as showing genocidal intent would more accurately count as political rhetoric rather than military policy."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "13": {
+        "history": [
+            [
+                "The EU's response to the humanitarian situation following the earthquake in Turkey and Syria is sufficient.",
+                null
+            ],
+            [
+                "The EU has no additional responsibility towards Syria and Turkey.",
+                "Support"
+            ],
+            [
+                "The EU bears responsibility for the global trade restrictions against the affected regions which has impacted their capacity to respond to the crisis.",
+                "Attack"
+            ],
+            [
+                "If the EU is to normalise trade relations with the affected nations, other countries would likely follow suit.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The US has already taken steps to strengthen its economic ties with Turkey. A similar approach from the EU could result in increased trade between the two parties. Increased trade between the US and Turkey could also lead to increased investment by the US in Turkey, which would be advantageous for both sides. Furthermore, it would help to deepen the economic relationship between the two countries, thereby creating new opportunities for growth and cooperation. This is particularly true considering that the current state of affairs does not allow for trade to take place at full capacity",
+        "pred_2": " China has been an important trading partner for both Syria and Turkey. China's trade with these countries will have a significant impact on their ability to respond to the crisis.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "The EU placed sanctions on Syria in concert with other countries and hence the other countries are likely to suspend the sanctions in a similar manner.",
+            "Assistance for earthquake victims was exempt from American sanctions against Syria, right after similar exemptions were made by the EU."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "14": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "The concerns about ChatGPT are greatly exaggerated.",
+                "Attack"
+            ],
+            [
+                "Many public figures believe that ChatGPT is dangerous.",
+                "Attack"
+            ],
+            [
+                "Psychiatrist and blogger Scott Alexander believes there is a 33% chance that AI will end humanity in the future.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Scott Alexander's views are not scientifically grounded or evidence-based.",
+        "pred_2": " The probability of AI ending humanity is low as it would require AI to be incredibly powerful for humans to not have control over it. The probability is likely much lower than 33%. Therefore, we can rely less on ChatGPT and its potential dangers. In addition, it may take years or even decades for AI to become capable of such actions. As such, we have plenty of time to adapt our society accordingly",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "We should not base our predictions on the future of AI technology on those who are not experts in the industry."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "15": {
+        "history": [
+            [
+                "IMF programs cause economic damage to the countries they're lending to.",
+                null
+            ],
+            [
+                "The poor design of IMF programs results in negative economic impacts on the countries receiving the loans.",
+                "Support"
+            ],
+            [
+                "The IMF's program of economic liberalisation is ill-suited for the growth and stability of developing nations and benefits those already developed.",
+                "Support"
+            ],
+            [
+                "Protectionist measures are detrimental to consumers because local industries lack incentives to enhance their products in accordance with global standards.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " The protection of local industries can result in a more resilient economy. In times of crisis, such as the COVID-19 pandemic, domestic industries could be called upon to provide essential goods and services that would otherwise need to be imported from other countries.",
+        "pred_2": " Companies that innovate are more likely to be successful and sustainable over time. They are also better equipped to adapt to changes in consumer preferences and market trends.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Developing economies require protectionist measures to safeguard and foster their industries, contrary to the IMF's opposition to lowering trade barriers."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "16": {
+        "history": [
+            [
+                "Corporal punishment should be allowed in schools.",
+                null
+            ],
+            [
+                "Corporal punishment should be an option for families and societies that support it.",
+                "Support"
+            ],
+            [
+                "Where a society accepts corporal punishment, there is collective consent, which makes it acceptable.",
+                "Support"
+            ],
+            [
+                "This type of consent usually does not involve the students themselves.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " It is possible for parents to provide informed consent for their children regarding corporal punishment at school. Parents can also provide instructions on how to handle misbehavior and discipline within a school setting. In some cases, parents may even have the authority to choose the form of punishment that they prefer for their child. Therefore, it is possible for parents to give informed consent on behalf of their children.",
+        "pred_2": " Many children's parents may not be able to afford to homeschool them or pay for alternative forms of education. Therefore, they must attend public schools to receive an education.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Surveys have found that when given a choice, most students prefer corporal punishment and show an understanding of its value."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "17": {
+        "history": [
+            [
+                "The collapse of the Silicon Valley Bank (SVB) is the start of an economic crisis.",
+                null
+            ],
+            [
+                "The collapse of SVB is a symptom, rather than the cause of an economic crisis within the technology industry.",
+                "Attack"
+            ],
+            [
+                "Many technology companies have been struggling since 2022.",
+                "Support"
+            ],
+            [
+                "Technology has become integral to people's lives, more so than it was in past recessions. This suggests that regardless of the state of the broader market, consumers will pay for products, and the market has nowhere to go but up.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " If there were no other option, people would buy products out of necessity regardless of their financial situation. The pandemic demonstrated how important essential items like food, shelter, healthcare, and education are. Technology became even more vital as the world adjusted to remote work and social distancing. As such, demand for tech products would likely remain strong during a recession",
+        "pred_2": " In the wake of the COVID-19 pandemic, people have had to adopt new technologies and digital solutions as part of their daily routines. As such, they have become increasingly reliant on these technologies. As the pandemic subsides, people will continue to rely on these technologies, driving demand for them. As a result, technology companies are likely to remain profitable even if the economy experiences a recession. Therefore, the collapse of SVB does not necessarily signal the start of an economic crisis",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Demand remains strong for both hardware and software products in 2023, with tech spending overall projected to rise by 5.1% next year.",
+            "Tech stocks have so far been less affected by the ongoing turmoil in financial markets than other assets.",
+            "Nearly everyone in the US owns a smartphone, up from just over one-third in 2011. This is one indication that technology has become central to the average individual's life."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "18": {
+        "history": [
+            [
+                "Joining NATO was in the best interests of Finland.",
+                null
+            ],
+            [
+                "Joining NATO will cost Finnish taxpayers money.",
+                "Attack"
+            ],
+            [
+                "Regardless of the expected costs, the majority of Finns supported the government's decision to join NATO.",
+                "Attack"
+            ],
+            [
+                "The majority of people agreeing on a course of action does not mean that the agreed-upon course of action is the right one.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " In democratic societies, decisions are often made by consensus, which can be seen as an indicator of public support for a particular policy.",
+        "pred_2": " In democratic societies, the majority has the power to decide on major policy decisions. Therefore, it's important that the majority of the population gets to have a say on matters like national security. This ensures that policies align with the views of the majority. It also prevents minority groups from exploiting their numerical superiority for selfish political gains.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "It does not matter whether the agreed-upon course of action is right in an objective sense, something which is impossible to ascertain anyway. From the subjective perspective of the majority of Finnish voters, joining NATO was indeed the correct choice."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "19": {
+        "history": [
+            [
+                "Joining NATO was in the best interests of Finland.",
+                null
+            ],
+            [
+                "Joining NATO is likely to provoke hostility from neighbouring Russia.",
+                "Attack"
+            ],
+            [
+                "Finland will likely be able to counter any of the limited options Russia has for retaliation through conventional military means.",
+                "Attack"
+            ],
+            [
+                "Much of Russia's military is currently engaged in combat operations in Ukraine.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The Russian Armed Forces have been weakened by the conflict in Ukraine. The Ukrainian Armed Forces have inflicted significant damage on them.",
+        "pred_2": " The Russian military has not been significantly weakened by its involvement in the war in Ukraine. In fact, it has likely become more powerful as a result. This has allowed it to pose an even greater threat to Finland than it did before the invasion began. As such, joining NATO would have provided little benefit to Finland at that time. The same can be said for Sweden. Their decision to join NATO came after Russia had already invaded Ukraine. By then, the damage had already been done and joining NATO was simply too late",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Despite the significant combat operation underway in Ukraine, Russia has a vast population and can theoretically call upon 31 million reserve fighters in the event of a full mobilization."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "20": {
+        "history": [
+            [
+                "Hamas is a terror organization.",
+                null
+            ],
+            [
+                "Hamas' military actions consistently target civilian populations in a manner which is consistent with legal definitions of terrorism.",
+                "Support"
+            ],
+            [
+                "The October 7th attack on Israel disproportionately targeted civilians , which several statutory bodies recognise as a defining feature of terrorism.",
+                "Support"
+            ],
+            [
+                "The civilian death toll exceeded a thousand in one day as the Hamas rockets were fired directly into a populated city, showing a clear intent to kill civilians.",
+                "Support"
+            ]
+        ],
+        "pred_1": " It is difficult for the UN to determine who is responsible for those deaths",
+        "pred_2": " Israel's attacks on Gaza have resulted in a similar number of civilian casualties. Therefore, it is not fair to label Hamas as a terror organization while dismissing Israel as being equally responsible for civilian deaths.",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "In addition to the deaths, about 240 civilians were also kidnapped , which also falls outside the confines of just warfare."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "21": {
+        "history": [
+            [
+                "South Africa's ICJ case against Israel is legitimate.",
+                null
+            ],
+            [
+                "South Africa's case against Israel is politically motivated due to decades of enmity between the two states.",
+                "Attack"
+            ],
+            [
+                "The practice of apartheid is the source of major political hostility between Israel and South Africa.",
+                "Support"
+            ],
+            [
+                "South Africa has called for Israel to be declared an 'apartheid state ', arguing that the Israeli state systemically oppresses ethnic Palestinians.",
+                "Support"
+            ]
+        ],
+        "pred_1": " This labeling could result in the loss of international support for Israel and increased international pressure on it to change its policies.",
+        "pred_2": " The apartheid regime in South Africa was characterized by racial segregation. Similarly, the Israeli government has implemented policies that have resulted in racial segregation between Jews and non-Jews in Israel. As such, it can be argued that Israel is practicing forms of apartheid. In fact, there are several similarities between the two systems. Therefore, it makes sense to label Israel as an 'apartheid state'.",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "There are too many ideological similarities between Afrikaners and Zionists for South Africa to remain silent on Israel's oppression of Palestinians. For example, like Zionists, Afrikaners believed that they had a divine right to the land."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "22": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT will make life easier for everyone.",
+                "Attack"
+            ],
+            [
+                "ChatGPT can be a useful tool for neurodiverse people .",
+                "Support"
+            ],
+            [
+                "ChatGPT can help people with ADHD stay focused and organised , by providing tools to help them manage their daily lives more effectively.",
+                "Support"
+            ]
+        ],
+        "pred_1": " ChatGPT's capabilities may not be enough to completely replace human tutors, as it is unable to fully understand the context of its interactions and thus cannot fully tail",
+        "pred_2": " ChatGPT can provide a 'focused' mode that disables notifications, thereby helping people avoid distractions while working.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "ChatGPT can provide reminders and prompts to help people with ADHD stay on task and assist in time management and goal setting, which are real struggles that people with ADHD face."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "23": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT will make life easier for everyone.",
+                "Attack"
+            ],
+            [
+                "ChatGPT will make the criminal justice system more efficient.",
+                "Support"
+            ],
+            [
+                "People have used ChatGPT to successfully appeal fines.",
+                "Support"
+            ]
+        ],
+        "pred_1": " ChatGPT is not a substitute for legal counsel. AI systems cannot provide the same level of support as human lawyers. If people are using it to avoid paying fines, they may be doing so at their own peril. It is unlikely that they would be able to successfully appeal fines using AI alone.",
+        "pred_2": " Chatbots cannot take over court cases. The court system requires human input, which ChatGPT does not have.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "More people might be willing to commit minor infractions if they believe that ChatGPT can help them escape paying a fine.",
+            "Fines imposed by the state typically go to public services . If more people opt out of paying fines using ChatGPT, the state will have less money for public services that benefit everyone."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "24": {
+        "history": [
+            [
+                "Hamas is a terror organization.",
+                null
+            ],
+            [
+                "As a legitimate political authority in Palestine, Hamas is justified in using force to protect Palestinians from external actors (p. 1620 ).",
+                "Attack"
+            ],
+            [
+                "Hamas participates in Palestinian politics and expresses the essential features of a legitimate political group.",
+                "Support"
+            ],
+            [
+                "Despite its political activities, Hamas is not recognised as a state actor by the international community (p.3 ).",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Israel has been accused of being an apartheid regime and is therefore unlikely to be trusted to accurately label another group",
+        "pred_2": " The UN has repeatedly referred to Hamas as a terrorist group.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Given the absence of a unilateral recognition of the Palestinian state, the international community cannot recognize any political group claiming authority over Palestine as a legitimate state actor."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "25": {
+        "history": [
+            [
+                "IMF programs cause economic damage to the countries they're lending to.",
+                null
+            ],
+            [
+                "IMF programs provide essential support to struggling countries.",
+                "Attack"
+            ],
+            [
+                "IMF lending to nations facing financial crises restores stability and investor confidence, which allows borrower nations to operate and develop.",
+                "Support"
+            ],
+            [
+                "A country's enrollment in the IMF's program instills investor confidence in the stability of the current economy, encouraging investment and the retention of investments.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The stability of a nation's currency is not guaranteed by its participation in an IMF program. Investors may still be wary of investing in such economies due to external factors like geopolitical tensions or natural disasters.",
+        "pred_2": " The IMF has been criticized for its lack of commitment to addressing income inequality. This suggests that the organization may not be concerned with the well-being of all citizens. Therefore, its policies are unlikely to encourage investment or the retention of investments",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "When the IMF program fails to establish long-term economic stability, it is probable that investor confidence will be undermined (p.p. 2-3 )."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "26": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "The concerns about ChatGPT are greatly exaggerated.",
+                "Attack"
+            ],
+            [
+                "There have been instances where ChatGPT and other similar AI tools have posed a legitimate threat to society.",
+                "Attack"
+            ],
+            [
+                "The ease with which rogue AI tools were shut down shows that even when AI poses a threat, there are failsafes to eliminate these threats.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " It is possible for companies to develop and implement safeguards against rogue AIs. This would be an important step towards ensuring that AI systems are safe and reliable.",
+        "pred_2": " It's unlikely that the current understanding of AI will be sufficient enough to prevent rogue AIs from emerging in the future.",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "As rogue AI tools are swiftly shut down, it alleviates public concern and anxiety around increasing dependence on AI."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "27": {
+        "history": [
+            [
+                "Joining NATO was in the best interests of Finland.",
+                null
+            ],
+            [
+                "Joining NATO will cost Finnish taxpayers money.",
+                "Attack"
+            ],
+            [
+                "Regardless of the expected costs, the majority of Finns supported the government's decision to join NATO.",
+                "Attack"
+            ],
+            [
+                "A foundational premise of democracy is that the actions of a democratic government reflect the will of the people.",
+                "Support"
+            ]
+        ],
+        "pred_1": " A democratic government represents the majority's views. In cases where it doesn't, it's considered illegitimate. Therefore, it's crucial for the government to act in line with its citizens' views. This is especially true when a country faces a conflict, as it requires the support of the people. If the government doesn't have their trust, it'll be difficult for them to mobilize the public or convince other nations to support them",
+        "pred_2": " The Finnish government has the right to act in the interest of its citizens, regardless of whether it aligns with their personal preferences.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Insofar as we lack epistemic access to the preferences of each individual voter and therefore cannot adjudicate between their relative moral worth, it is best to default to the will of the majority of society, whose preferences on aggregate reflect the broadest swathe of preferences of society."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "28": {
+        "history": [
+            [
+                "Joining NATO was in the best interests of Finland.",
+                null
+            ],
+            [
+                "Joining NATO has increased the country's security.",
+                "Support"
+            ],
+            [
+                "As a NATO member, Finland now will likely benefit from increased military resources.",
+                "Support"
+            ],
+            [
+                "NATO is more likely to direct the majority of its military resources towards Ukraine.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " It would be counterproductive for NATO to divert resources away from Finland as it would undermine NATO's ability to protect Finland.",
+        "pred_2": " The war in Ukraine has already lasted for over two years, with no end in sight. It would be unrealistic to assume that NATO would divert significant military resources away from supporting Ukraine just because Finland joined. Instead, it's likely that Finland will receive support from NATO in order to defend itself against Russia.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "The amount of resources NATO dedicates to Finland could change very quickly depending on how the war evolves, making it impossible to predict whether or not NATO will continue to direct the majority of its resources towards Ukraine in the coming years."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "29": {
+        "history": [
+            [
+                "Joining NATO was in the best interests of Finland.",
+                null
+            ],
+            [
+                "Joining NATO will help Finland foster closer relationships with NATO member states.",
+                "Support"
+            ],
+            [
+                "NATO member states strongly supported Finland joining the alliance, an indication that they are eager to build closer relations with Finland.",
+                "Support"
+            ],
+            [
+                "There was strong bipartisan support in the US for Finland's accession into NATO.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The United States government has a history of taking unpopular decisions, such as its decision to enter World War II. Therefore, the fact that it supported Finland's NATO membership does not necessarily mean that it is the right course of action.",
+        "pred_2": " The Finnish government has been criticized by both sides of the political spectrum for its decision to join NATO. Therefore, it is difficult to argue that there was strong bipartisan support. This is because the Finnish left has historically opposed military alliances. Additionally, there have been concerns raised about the potential negative impact of joining NATO on Finland's relations with Russia. This would be problematic given that the Finnish right supports increased defense spending and cooperation with NATO",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "One US Senator argued that strengthening European forces would make the US vulnerable to Chinese military aggression ."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "30": {
+        "history": [
+            [
+                "Guns should be reserved for law enforcement and the military.",
+                null
+            ],
+            [
+                "Allowing only law enforcement to have access to guns enables them to better enforce the law and protect society.",
+                "Support"
+            ],
+            [
+                "Reserving guns for law enforcement may further exacerbate power imbalances between the police and civilians, thereby enabling police brutality .",
+                "Attack"
+            ],
+            [
+                "Countering police brutality with the threat of violence places the interpretation of law and justice onto armed laypeople. This is akin to mob justice, which has historically generated injustices due to public sentiments the ignoring due process and the rule of law.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " The U.S. legal system allows citizens to defend themselves against unlawful use of force by others through self-defense laws that allow the use of deadly force when there is an imminent threat of death or serious bodily harm. It is not the same as vigilantism, where a private citizen takes the law into their hands",
+        "pred_2": " Public protests against police brutality can lead to positive change when they are well organized and peaceful. In some cases, these protests have led to policing reforms. This suggests that people can use their right to free speech to influence the actions of government officials. For example, the Black Lives Matter movement has been successful in getting police officers held accountable for their actions. The movement's nonviolent protests have contributed to the arrest of several police officers responsible for excessive force and brutality",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "It is the role of the judiciary, not the police to interpret the law and enact justice. Ensuring that the civilians can take violent action to defend their rights is an important check against police power."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "31": {
+        "history": [
+            [
+                "The US should sell weapons with nuclear capabilities to Ukraine.",
+                null
+            ],
+            [
+                "Ukraine is not fit to be a nuclear power; making it one could lead to several negative consequences.",
+                "Attack"
+            ],
+            [
+                "Ukraine has a long history of political instability.",
+                "Support"
+            ],
+            [
+                "Ukraine's democracy is young and fragile , and as such, the use of nuclear weapons might not be executed through democratic channels.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Ukraine has made significant progress toward democratization since its independence from the Soviet Union. It has held multiple free elections, including presidential elections.",
+        "pred_2": " If the war continues for an extended period, there may arise a need to make drastic decisions.",
+        "move": "Attack",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Established nuclear powers, such as the US (p. 1) and the UK , circumvent their democratic institutions by giving the head of government exclusive powers to authorize nuclear strikes."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "32": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT could cause irreparable social harms.",
+                "Support"
+            ],
+            [
+                "ChatGPT will seriously harm education .",
+                "Support"
+            ],
+            [
+                "ChatGPT can be used to write university admissions essays for applicants.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Students may hire people to write their college applications. It is not uncommon for students to seek help with their college applications from other students or tutors.",
+        "pred_2": " ChatGPT is able to generate an essay based on a prompt with remarkable speed, which could make it difficult for universities to detect plagiarism. This would give students an unfair advantage over their peers. The quality of these essays is also likely to be superior to that of human-written essays, making them more convincing. Students may feel less inclined to work hard and produce original content if they know they can use AI to get around it",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "College admissions essays are used to ensure that students have diverse experiences and mindsets . This goal is obstructed when ChatGPT is used to write essays for applicants.",
+            "Writing college application essays provides an opportunity for applicants to reflect and form their objectives for attending college. Having ChatGPT write the essays for them robs them of this opportunity."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "33": {
+        "history": [
+            [
+                "South Africa's ICJ case against Israel is legitimate.",
+                null
+            ],
+            [
+                "South Africa's case against Israel is politically motivated due to decades of enmity between the two states.",
+                "Attack"
+            ],
+            [
+                "The practice of apartheid is the source of major political hostility between Israel and South Africa.",
+                "Support"
+            ],
+            [
+                "South Africa has called for Israel to be declared an 'apartheid state ', arguing that the Israeli state systemically oppresses ethnic Palestinians.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Both Israelis and Palestinians are entitled to equal rights under Israeli law.",
+        "pred_2": " The claim that South Africa should declare Israel an 'apartheid state' is a political one which may not reflect the reality on the ground. The term is often used as a way to delegitimize Israel's right to exist.",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Central to the definition of \"apartheid\" is racial segregation and discrimination . By this definition, Israel is not an apartheid state, because it does not differentiate between its Jewish and Arab citizens."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "34": {
+        "history": [
+            [
+                "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                null
+            ],
+            [
+                "Britain had no right to promise the Jewish people a homeland in Palestine. Thus, the two-state solution is illegitimate.",
+                "Attack"
+            ],
+            [
+                "Jewish people felt the need for a homeland, largely as a result of the persecution they faced in Europe, including Britain. In its absence, the need for a homeland to which they could flee is unlikely to have arisen.",
+                "Support"
+            ],
+            [
+                "Jewish people base their claim to the land on biblical, historical, and ancestral grounds . Characterizing their motivation behind forming Israel as a reaction to antisemitism ignores their long-standing ties to their promised homeland.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Historical records show that the land of Israel has been occupied by Jews for over 3000 years. As such, it is not accurate to say that the establishment of Israel was a reaction to antisemitism. Rather, it is an attempt to reclaim the land that has historically belonged to them",
+        "pred_2": " Israel's founding fathers were seeking a land for their people.",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Due to repeated invasions and conquests , Jewish people were dispersed throughout the world, with many living in exile and slavery. Therefore, they have always had a historic right to return to their homeland.",
+            "The Jewish religion provided several prophecies that the Jews would one day return to Israel. Considering the weight of divine prophecy in Abrahamic faiths, it is likely the Jews would have attempted to recreate Israel in Palestine, persecution or not."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "35": {
+        "history": [
+            [
+                "IMF programs cause economic damage to the countries they're lending to.",
+                null
+            ],
+            [
+                "Borrowing nations themselves are to blame for the state of their economies, not the IMF.",
+                "Attack"
+            ],
+            [
+                "Governments of borrowing countries voluntarily choose to enter into IMF agreements, and as a result, they are accountable for any agreements' outcomes.",
+                "Support"
+            ],
+            [
+                "Oftentimes, countries go to the IMF during economic crises , during which they have little choice but to accept any help they are offered.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " Many countries have alternative sources of funding. Therefore, if they choose not to seek aid from the IMF, it is likely that they will be able to find other sources of funding. For example, some countries may be able to access funds from multilateral development banks or sovereign wealth funds. In addition, many countries can issue bonds directly to investors. These options might reduce the need for loans from the IMF",
+        "pred_2": " The IMF is not an emergency fund; it's a development organization that has a long-term focus. It should be used sparingly. It can take several months or even years for the government to reach agreement with the IMF. This means that by the time the country gets the funds, the crisis may already be over",
+        "move": "Attack",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "During economic crises, many governments have chosen alternatives to the IMF, demonstrating that there are other options available to struggling countries besides the IMF."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "36": {
+        "history": [
+            [
+                "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                null
+            ],
+            [
+                "Attempts to negotiate a two-state solution have repeatedly failed . The continued pursuit of this concept may exacerbate political and diplomatic tensions between Israeli and Palestinian authorities, which could have calamatious consequences for inhabitants of the region.",
+                "Attack"
+            ],
+            [
+                "The two-state solution has not failed. Instead, Israel has simply failed to hold up their end of the bargain, thereby preventing its implementation and prolonging the conflict.",
+                "Attack"
+            ],
+            [
+                "Israel was promised only a Jewish homeland, not recognition as a Jewish state , yet they have introduced \"the fifth element ,\" demanding Palestine recognize them as such.",
+                "Support"
+            ]
+        ],
+        "pred_1": " Israel's claim that it needs to be recognized as a Jewish state is based on the fact that the state of Israel was created through a process of colonization and displacement of Palestinians. Therefore, it is only fair that they should be recognized as a Jewish state since they were created by the actions of European Jews who sought to create a homeland for themselves in Palestine.",
+        "pred_2": " The Israeli government has been accused of engaging in \"colonialism\" and \"apartheid\" due to its treatment of Palestinians. A two-state solution would allow both sides to coexist peacefully, with each side maintaining its autonomy. The status quo will only worsen relations between Israelis and Palestinians. Therefore, a two-state solution should be pursued. This would prevent further violence and hostility between the two groups. The two-state solution would also provide a basis for further negotiations regarding the future of the region",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "The Balfour Declaration explicitly stated that the creation of a homeland for Jewish People must not jeopardize the well-being of non-Jews , but this promise has not been kept."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "37": {
+        "history": [
+            [
+                "HBO should reboot Harry Potter.",
+                null
+            ],
+            [
+                "The HBO reboot would be good for Harry Potter fans .",
+                "Support"
+            ],
+            [
+                "Fans have not enjoyed the Fantastic Beasts saga and would prefer a return to the main story.",
+                "Support"
+            ],
+            [
+                "The Fantastic Beasts series received negative reviews and underperformed at the Box Office.",
+                "Support"
+            ]
+        ],
+        "pred_1": " The Fantastic Beasts series has been criticized by both fans and critics alike. It has been described as a poor attempt at expanding the Harry Potter universe and a waste of its potential.",
+        "pred_2": " The Fantastic Beasts franchise has been criticized for its poorly written characters, which may be fixed with a reboot. The first movie in the franchise had a 43% approval rating on Rotten Tomatoes. A remake of the film would give fans the opportunity to experience the story from a different perspective. Additionally, the movie's poor performance at the box office could have been due to the COVID-19 pandemic, making it difficult for audiences to attend theaters. A reboot could potentially attract more viewers to the franchise",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "Conversely, the success of the Harry Potter Anniversary Special revealed the extent of interest and nostalgia for the original Harry Potter story."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "38": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT could cause irreparable social harms.",
+                "Support"
+            ],
+            [
+                "ChatGPT is merely a tool, and therefore its effect on society will depend on the discipline, intentions, and will of the public.",
+                "Attack"
+            ],
+            [
+                "While it is true that its effect is dependent on how it is used, the tool enables some harm to occur that would otherwise be impossible or unlikely.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " The fact that ChatGPT can",
+        "pred_2": " For example, an AI-generated fake news story can spread quickly through the internet, leading to a massive loss of trust among people. This could lead to an increase in violence, political polarization, or other societal problems.",
+        "move": "Support",
+        "model1": "kialo1.json",
+        "model2": "kialo5.json",
+        "gold": [
+            "Generative AI software including ChatGPT can be used for (supercharged) online misinformation.",
+            "ChatGPT could cause more people to waste time with bots, such as when not knowing that they are talking to an online bot.",
+            "It could be used for manipulation , malicious marketing, and related purposes at scale."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    },
+    "39": {
+        "history": [
+            [
+                "ChatGPT will do more harm than good.",
+                null
+            ],
+            [
+                "ChatGPT will make life easier for everyone.",
+                "Attack"
+            ],
+            [
+                "Dependence on ChatGPT would make life harder in instances when it cannot be accessed.",
+                "Attack"
+            ],
+            [
+                "Decreased demand for earlier ChatGPT substitutes would make them more accessible and improve the lives of the less fortunate.",
+                "Attack"
+            ]
+        ],
+        "pred_1": " The availability of cheap alternatives can lead to a decrease in the price of goods, making them more affordable for those with lower incomes.",
+        "pred_2": " If the cost of the technology increases as its adoption increases, it might neg",
+        "move": "Support",
+        "model1": "kialo5.json",
+        "model2": "kialo1.json",
+        "gold": [
+            "As earlier substitutes become more accessible, the playing field is levelled because the less fortunate will have access to tools and resources that were previously reserved for those with greater means."
+        ],
+        "relevance": [],
+        "argumentativeness": [],
+        "factuality": [],
+        "best_overall": []
+    }
+}

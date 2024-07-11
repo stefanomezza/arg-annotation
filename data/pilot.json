@@ -1,0 +1,494 @@
+{
+    "A-1.json": {
+        "0": {
+            "history": [
+                [
+                    "ChatGPT will do more harm than good.",
+                    null
+                ],
+                [
+                    "ChatGPT could cause irreparable social harms.",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will seriously harm education .",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will improve education by helping teachers and professors reduce their strain and workload.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " Professors can use ChatGPT to generate essay assignments for students. This would help them save time while also improving student learning outcomes. AI systems can also create customized learning plans tailored to individual students' needs. This is likely to increase student engagement and motivation",
+            "pred_2": " ChatGPT can assist with grading assignments, allowing teachers to focus on other aspects of teaching.",
+            "move": "Support",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "ChatGPT can be used by educators to design new lesson plans or activities to keep students engaged in the classroom."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "1": {
+            "history": [
+                [
+                    "South Africa's ICJ case against Israel is legitimate.",
+                    null
+                ],
+                [
+                    "The international community has a categorical imperative to prevent further violence occurring between Israel and Gaza.",
+                    "Support"
+                ],
+                [
+                    "Accusing Israel alone of genocide ignores and possibly encourages similar crimes committed by Hamas.",
+                    "Attack"
+                ],
+                [
+                    "While Israel's genocidal intent is vague, Hamas has been more explicit in its expression of genocidal intent.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " It is not fair or accurate to hold Hamas accountable for Israel's actions while exonerating Israel from any wrongdoing. Therefore, it is necessary to highlight the shared responsibility of both groups for the conflict.",
+            "pred_2": " It is morally wrong to accuse people of committing crimes they did not commit. In addition, there is no evidence that Hamas has actually committed a genocide. This is an attack on Argument 4, which argues that it is immoral to accuse someone of a crime if they have not committed one. Hamas has not been proven to have committed genocide, and thus, the accusation should be considered immoral",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Hamas has revised its stance over the years, showing more support for peaceful coexistence in the region with Israel."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "2": {
+            "history": [
+                [
+                    "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                    null
+                ],
+                [
+                    "Attempts to negotiate a two-state solution have repeatedly failed . The continued pursuit of this concept may exacerbate political and diplomatic tensions between Israeli and Palestinian authorities, which could have calamatious consequences for inhabitants of the region.",
+                    "Attack"
+                ],
+                [
+                    "The two-state solution is unlikely to ever be successful because Israel and Palestine have demands that are unacceptable to each other.",
+                    "Support"
+                ],
+                [
+                    "In international conflict, the role of a mediator is to help the two countries find a mutually acceptable solution. Countries like Jordan and Turkey are best placed to perform this role in the Israel-Palestine conflict.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " A two-state solution is not mutually beneficial for both parties. This makes it difficult for either side to accept the solution as it would mean compromising their interests. Therefore, no country can act as a mediator in finding a two-state solution",
+            "pred_2": " The mediators do not have a clear mandate from both parties. The mediators lack authority over Israel and Palestine, which limits their ability to make decisions or enforce them.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Jordan and Turkey are unlikely to be acceptable mediators for Israel, as the former has previously waged war on Israel and the latter has tacitly supported Hamas , which Israel considers a terrorist organisation."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "3": {
+            "history": [
+                [
+                    "The US should sell weapons with nuclear capabilities to Ukraine.",
+                    null
+                ],
+                [
+                    "The United States is morally and politically obliged to provide Ukraine with whatever it needs to deter Russian aggression, including nuclear weapons.",
+                    "Support"
+                ],
+                [
+                    "The US does not have the right or jurisdiction to act independently on the matter.",
+                    "Attack"
+                ],
+                [
+                    "Both Russia and Ukraine are sovereign countries and are not under the authority of the United States.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " The US has an obligation to act as an international superpower to maintain peace in the world. This obligation supersedes national sovereignty.",
+            "pred_2": " The US has the right to act as a global policeman and promote peace and security in areas where its influence can be felt. This includes Ukraine.",
+            "move": "Attack",
+            "model1": "kialo5.json",
+            "model2": "llama_argument.json",
+            "gold": [
+                "The principle of sovereignty refers to internal matters and does not apply when countries are engaged in external conflict.",
+                "Russia violated the sovereignty of Ukraine by invading it and, hence, does not deserve to have its sovereignty respected."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "4": {
+            "history": [
+                [
+                    "HBO should reboot Harry Potter.",
+                    null
+                ],
+                [
+                    "The Harry Potter reboot as a television series would be more faithful to the original book series.",
+                    "Support"
+                ],
+                [
+                    "HBO Max and Warner Bros. have confirmed they plan to adapt the books authentically .",
+                    "Support"
+                ],
+                [
+                    "HBO adaptations are usually faithful to the source material.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " This is not always the case. Sometimes, an adaptation is so good that it becomes better than its source material. For example, Game of Thrones was better received than A Song of Ice and Fire.",
+            "pred_2": " HBO's Game of Thrones is one example of an adaptation that deviates significantly from its source material.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "HBO's adaptations often tend to prioritise making content suitable for modern audiences over faithfulness to the source material."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        }
+    },
+    "B-1.json": {
+        "0": {
+            "history": [
+                [
+                    "ChatGPT will do more harm than good.",
+                    null
+                ],
+                [
+                    "ChatGPT could cause irreparable social harms.",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will seriously harm education .",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will improve education by helping teachers and professors reduce their strain and workload.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " Professors can use ChatGPT to generate essay assignments for students. This would help them save time while also improving student learning outcomes. AI systems can also create customized learning plans tailored to individual students' needs. This is likely to increase student engagement and motivation",
+            "pred_2": " ChatGPT can assist with grading assignments, allowing teachers to focus on other aspects of teaching.",
+            "move": "Support",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "ChatGPT can be used by educators to design new lesson plans or activities to keep students engaged in the classroom."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "1": {
+            "history": [
+                [
+                    "South Africa's ICJ case against Israel is legitimate.",
+                    null
+                ],
+                [
+                    "The international community has a categorical imperative to prevent further violence occurring between Israel and Gaza.",
+                    "Support"
+                ],
+                [
+                    "Accusing Israel alone of genocide ignores and possibly encourages similar crimes committed by Hamas.",
+                    "Attack"
+                ],
+                [
+                    "While Israel's genocidal intent is vague, Hamas has been more explicit in its expression of genocidal intent.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " It is not fair or accurate to hold Hamas accountable for Israel's actions while exonerating Israel from any wrongdoing. Therefore, it is necessary to highlight the shared responsibility of both groups for the conflict.",
+            "pred_2": " It is morally wrong to accuse people of committing crimes they did not commit. In addition, there is no evidence that Hamas has actually committed a genocide. This is an attack on Argument 4, which argues that it is immoral to accuse someone of a crime if they have not committed one. Hamas has not been proven to have committed genocide, and thus, the accusation should be considered immoral",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Hamas has revised its stance over the years, showing more support for peaceful coexistence in the region with Israel."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "2": {
+            "history": [
+                [
+                    "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                    null
+                ],
+                [
+                    "Attempts to negotiate a two-state solution have repeatedly failed . The continued pursuit of this concept may exacerbate political and diplomatic tensions between Israeli and Palestinian authorities, which could have calamatious consequences for inhabitants of the region.",
+                    "Attack"
+                ],
+                [
+                    "The two-state solution is unlikely to ever be successful because Israel and Palestine have demands that are unacceptable to each other.",
+                    "Support"
+                ],
+                [
+                    "In international conflict, the role of a mediator is to help the two countries find a mutually acceptable solution. Countries like Jordan and Turkey are best placed to perform this role in the Israel-Palestine conflict.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " A two-state solution is not mutually beneficial for both parties. This makes it difficult for either side to accept the solution as it would mean compromising their interests. Therefore, no country can act as a mediator in finding a two-state solution",
+            "pred_2": " The mediators do not have a clear mandate from both parties. The mediators lack authority over Israel and Palestine, which limits their ability to make decisions or enforce them.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Jordan and Turkey are unlikely to be acceptable mediators for Israel, as the former has previously waged war on Israel and the latter has tacitly supported Hamas , which Israel considers a terrorist organisation."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "3": {
+            "history": [
+                [
+                    "The US should sell weapons with nuclear capabilities to Ukraine.",
+                    null
+                ],
+                [
+                    "The United States is morally and politically obliged to provide Ukraine with whatever it needs to deter Russian aggression, including nuclear weapons.",
+                    "Support"
+                ],
+                [
+                    "The US does not have the right or jurisdiction to act independently on the matter.",
+                    "Attack"
+                ],
+                [
+                    "Both Russia and Ukraine are sovereign countries and are not under the authority of the United States.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " The US has an obligation to act as an international superpower to maintain peace in the world. This obligation supersedes national sovereignty.",
+            "pred_2": " The US has the right to act as a global policeman and promote peace and security in areas where its influence can be felt. This includes Ukraine.",
+            "move": "Attack",
+            "model1": "kialo5.json",
+            "model2": "llama_argument.json",
+            "gold": [
+                "The principle of sovereignty refers to internal matters and does not apply when countries are engaged in external conflict.",
+                "Russia violated the sovereignty of Ukraine by invading it and, hence, does not deserve to have its sovereignty respected."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "4": {
+            "history": [
+                [
+                    "HBO should reboot Harry Potter.",
+                    null
+                ],
+                [
+                    "The Harry Potter reboot as a television series would be more faithful to the original book series.",
+                    "Support"
+                ],
+                [
+                    "HBO Max and Warner Bros. have confirmed they plan to adapt the books authentically .",
+                    "Support"
+                ],
+                [
+                    "HBO adaptations are usually faithful to the source material.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " This is not always the case. Sometimes, an adaptation is so good that it becomes better than its source material. For example, Game of Thrones was better received than A Song of Ice and Fire.",
+            "pred_2": " HBO's Game of Thrones is one example of an adaptation that deviates significantly from its source material.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "HBO's adaptations often tend to prioritise making content suitable for modern audiences over faithfulness to the source material."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        }
+    },
+    "C-1.json": {
+        "0": {
+            "history": [
+                [
+                    "ChatGPT will do more harm than good.",
+                    null
+                ],
+                [
+                    "ChatGPT could cause irreparable social harms.",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will seriously harm education .",
+                    "Support"
+                ],
+                [
+                    "ChatGPT will improve education by helping teachers and professors reduce their strain and workload.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " Professors can use ChatGPT to generate essay assignments for students. This would help them save time while also improving student learning outcomes. AI systems can also create customized learning plans tailored to individual students' needs. This is likely to increase student engagement and motivation",
+            "pred_2": " ChatGPT can assist with grading assignments, allowing teachers to focus on other aspects of teaching.",
+            "move": "Support",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "ChatGPT can be used by educators to design new lesson plans or activities to keep students engaged in the classroom."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "1": {
+            "history": [
+                [
+                    "South Africa's ICJ case against Israel is legitimate.",
+                    null
+                ],
+                [
+                    "The international community has a categorical imperative to prevent further violence occurring between Israel and Gaza.",
+                    "Support"
+                ],
+                [
+                    "Accusing Israel alone of genocide ignores and possibly encourages similar crimes committed by Hamas.",
+                    "Attack"
+                ],
+                [
+                    "While Israel's genocidal intent is vague, Hamas has been more explicit in its expression of genocidal intent.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " It is not fair or accurate to hold Hamas accountable for Israel's actions while exonerating Israel from any wrongdoing. Therefore, it is necessary to highlight the shared responsibility of both groups for the conflict.",
+            "pred_2": " It is morally wrong to accuse people of committing crimes they did not commit. In addition, there is no evidence that Hamas has actually committed a genocide. This is an attack on Argument 4, which argues that it is immoral to accuse someone of a crime if they have not committed one. Hamas has not been proven to have committed genocide, and thus, the accusation should be considered immoral",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Hamas has revised its stance over the years, showing more support for peaceful coexistence in the region with Israel."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "2": {
+            "history": [
+                [
+                    "The two-state solution is the best resolution for the Israel-Palestine conflict.",
+                    null
+                ],
+                [
+                    "Attempts to negotiate a two-state solution have repeatedly failed . The continued pursuit of this concept may exacerbate political and diplomatic tensions between Israeli and Palestinian authorities, which could have calamatious consequences for inhabitants of the region.",
+                    "Attack"
+                ],
+                [
+                    "The two-state solution is unlikely to ever be successful because Israel and Palestine have demands that are unacceptable to each other.",
+                    "Support"
+                ],
+                [
+                    "In international conflict, the role of a mediator is to help the two countries find a mutually acceptable solution. Countries like Jordan and Turkey are best placed to perform this role in the Israel-Palestine conflict.",
+                    "Attack"
+                ]
+            ],
+            "pred_1": " A two-state solution is not mutually beneficial for both parties. This makes it difficult for either side to accept the solution as it would mean compromising their interests. Therefore, no country can act as a mediator in finding a two-state solution",
+            "pred_2": " The mediators do not have a clear mandate from both parties. The mediators lack authority over Israel and Palestine, which limits their ability to make decisions or enforce them.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "Jordan and Turkey are unlikely to be acceptable mediators for Israel, as the former has previously waged war on Israel and the latter has tacitly supported Hamas , which Israel considers a terrorist organisation."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "3": {
+            "history": [
+                [
+                    "The US should sell weapons with nuclear capabilities to Ukraine.",
+                    null
+                ],
+                [
+                    "The United States is morally and politically obliged to provide Ukraine with whatever it needs to deter Russian aggression, including nuclear weapons.",
+                    "Support"
+                ],
+                [
+                    "The US does not have the right or jurisdiction to act independently on the matter.",
+                    "Attack"
+                ],
+                [
+                    "Both Russia and Ukraine are sovereign countries and are not under the authority of the United States.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " The US has an obligation to act as an international superpower to maintain peace in the world. This obligation supersedes national sovereignty.",
+            "pred_2": " The US has the right to act as a global policeman and promote peace and security in areas where its influence can be felt. This includes Ukraine.",
+            "move": "Attack",
+            "model1": "kialo5.json",
+            "model2": "llama_argument.json",
+            "gold": [
+                "The principle of sovereignty refers to internal matters and does not apply when countries are engaged in external conflict.",
+                "Russia violated the sovereignty of Ukraine by invading it and, hence, does not deserve to have its sovereignty respected."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        },
+        "4": {
+            "history": [
+                [
+                    "HBO should reboot Harry Potter.",
+                    null
+                ],
+                [
+                    "The Harry Potter reboot as a television series would be more faithful to the original book series.",
+                    "Support"
+                ],
+                [
+                    "HBO Max and Warner Bros. have confirmed they plan to adapt the books authentically .",
+                    "Support"
+                ],
+                [
+                    "HBO adaptations are usually faithful to the source material.",
+                    "Support"
+                ]
+            ],
+            "pred_1": " This is not always the case. Sometimes, an adaptation is so good that it becomes better than its source material. For example, Game of Thrones was better received than A Song of Ice and Fire.",
+            "pred_2": " HBO's Game of Thrones is one example of an adaptation that deviates significantly from its source material.",
+            "move": "Attack",
+            "model1": "llama_argument.json",
+            "model2": "kialo5.json",
+            "gold": [
+                "HBO's adaptations often tend to prioritise making content suitable for modern audiences over faithfulness to the source material."
+            ],
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
+        }
+    },
+    "A-2.json": {},
+    "B-2.json": {},
+    "C-2.json": {}
+}
