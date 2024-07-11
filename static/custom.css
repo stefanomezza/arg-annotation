@@ -5,8 +5,37 @@
 #annotation_div{
     margin-top:2%;
 }
+/*
 .chat-turn{
-    margin-bottom:50px;
+    padding-bottom:20px;
+}
+*/
+.downarrow{
+    height: 20px;
+    margin:5px;
+    margin-left:400px;
+}
+.question, .buttons {
+    display:inline-block;
+}
+#question-container, #full-chat-container{
+    display:block;
+    vertical-align: middle;
+}
+.system-response{
+    display: inline-block;
+    width: 48%
+}
+
+#question-container{
+    width: 100%;
+}
+
+#full-chat-container{
+    width: 100%;
+}
+.qdiv{
+    margin-bottom: 15px;
 }
 .buttons {
     float:right;
@@ -14,10 +43,26 @@
     margin-right:30%
 }
 #chat-container, #response-container{
-    display:inline-block;
+    display:block;
+    /*width: 45%;*/
 }
 
+#chat-turn-2{
+    margin-left:50px;
+}
 
+#chat-turn-3{
+    margin-left:100px;
+}
+.topic-turn{
+    text-align:center;
+    margin-bottom: 30px;
+}
+.topic-turn-text {
+    background: greenyellow !important;
+    font-size: 19px;
+    font-variant: all-petite-caps;
+}
 #question-container{
     text-align:left;
 }
@@ -30,12 +75,12 @@
     margin-top:2%;
 }
 .resp_b{
-    background:orange;
+    background:rgb(221, 233, 255);
     border:none;
 }
 
 .resp_a{
-    background:aquamarine;
+    background:rgb(221, 233, 255);
     border:none;
 }
 .chosen{

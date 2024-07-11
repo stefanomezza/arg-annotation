@@ -10,33 +10,49 @@ CORS(app)
 players = {}
 
 
-EXPERIMENT = "llama-Chat-1_vs_llama-kialo-1.json"
+EXPERIMENTS = {
+    "89h13r89pj": "bulbasaur.json",
+    "90uqj3riop": "charmander.json",
+    "w8huriopaf": "pikachu.json",
+    "89ph43q8tq": "squirtle.json",
+    'pilot': "pilot.json"
+}
 
 
 @app.route('/send_response', methods=['POST'])
-def check_pass():
+def send_response():
     content = request.data
     content = json.loads(content)
-    with open(f"data/{EXPERIMENT}") as f:
+    password = content['pass']
+    with open(f"data/{EXPERIMENTS[password]}") as f:
         exp = json.load(f)
-    k = list(content.keys())[0]
-    v = list(content.values())[0]
-    exp[k] = v
-    with open(f"data/{EXPERIMENT}", 'w') as f:
+    k = list(content['response'].keys())[0]
+    exp_name, exp_idx = k.split("__")
+    v = list(content['response'].values())[0]
+    exp[exp_name][exp_idx] = v
+    with open(f"data/{EXPERIMENTS[password]}", 'w') as f:
         json.dump(exp, f, indent=4)
     return json.dumps({'res': 'ok'})
 
 
-@app.route('/get_data', methods=['GET'])
+@app.route('/get_data', methods=['POST'])
 def get_data():
-    with open(f'data/{EXPERIMENT}') as f:
+    content = request.data
+    content = json.loads(content)
+    password = content['pass']
+    if password not in EXPERIMENTS.keys():
+        return json.dumps({"res": "no_exp", 'data': {}})
+    print("get data")
+    with open(f'data/{EXPERIMENTS[password]}') as f:
         content = json.load(f)
-    return json.dumps(content)
+    print("returning content")
+    return json.dumps({'res': 'ok', 'data': content})
 
 
 @app.route('/<path:path>')
 def serve_static(path):
         return send_from_directory('static/', path)
+
 
 if __name__ == "__main__":
     try:
