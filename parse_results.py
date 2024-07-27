@@ -1,11 +1,12 @@
 import json
 if __name__ == "__main__":
-    experiments = ['bulbasaur.json', 'charmander.json']
+    experiments = ['bulbasaur.json', 'charmander.json', 'squirtle.json', 'pikachu.json']
+    #experiments=['squirtle.json']
     metrics = ['argumentativeness', 'factuality', 'relevance', 'best_overall']
     results = {
-        'A': {m:[] for m in metrics},
-        'B': {m:[] for m in metrics},
-        'C': {m:[] for m in metrics}
+            'A': {m:{str(x): [] for x in range(0,40)} for m in metrics},
+            'B': {m:{str(x): [] for x in range(0,40)} for m in metrics},
+            'C': {m:{str(x): [] for x in range(0,40)} for m in metrics}
     }
     for exp in experiments:
         with open(f'data/{exp}') as f:
@@ -18,13 +19,18 @@ if __name__ == "__main__":
                 for metric in metrics:
                     for response in data[exp_name][exp_index][metric]:
                         metric_winner = data[exp_name][exp_index][f"model{response}"]
-                        results[exp_key][metric].append(metric_winner)
+                        results[exp_key][metric][exp_index].append(metric_winner)
+
     for res in results:
-        print(f'---------{res}--------')
-        for m in metrics:
-            metric_candidates = list(set(results[res][m]))
+       print(f'---------{res}--------')
+       for m in metrics:
             print(f"---{m}---")
-            for candidate in metric_candidates:
-                print(f"{candidate}: {str(len([x for x in results[res][m] if x==candidate])/len(results[res][m])*100)+'%'}")
+            wins = {}
+            for exp in results[res][m]:
+                l = results[res][m][exp]
+                winner = (max(set(l), key = l.count))
+                wins[winner]= wins.get(winner,0)+1
+            for candidate in wins:
+                print(f"{candidate}: {wins[candidate]/40}")
     with open('out.json', 'w') as f:
         json.dump(results, f, indent=4)

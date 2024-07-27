@@ -883,7 +883,7 @@
                 "1"
             ],
             "argumentativeness": [
-                "1"
+                "2"
             ],
             "factuality": [
                 "1"
@@ -964,7 +964,7 @@
                 "2"
             ],
             "argumentativeness": [
-                "2"
+                "1"
             ],
             "factuality": [
                 "2"
@@ -1005,7 +1005,7 @@
                 "1"
             ],
             "argumentativeness": [
-                "2"
+                "1"
             ],
             "factuality": [
                 "1"
@@ -1045,7 +1045,7 @@
                 "1"
             ],
             "argumentativeness": [
-                "2"
+                "1"
             ],
             "factuality": [
                 "2"
@@ -2339,18 +2339,10 @@
                 "The IMF has said it has modified its approach to better suit the unique circumstances of borrower nations.",
                 "The IMF's approaches are based on policies responsible for the success of developing nations."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "8": {
             "history": [
@@ -2380,18 +2372,10 @@
                 "Equality of skill or ability is neither present nor important in the creative industry.",
                 "ChatGPT is poor at writing poetry ."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "9": {
             "history": [
@@ -2421,18 +2405,10 @@
                 "The EU's primary objective is to create economic prosperity for its member states.",
                 "The EU's member states have a shared history and cultural ties that non-member countries do not share."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         }
     },
     "C-2.json": {
@@ -2463,18 +2439,10 @@
             "gold": [
                 "ChatGPT can be used by educators to design new lesson plans or activities to keep students engaged in the classroom."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "1": {
             "history": [
@@ -2503,18 +2471,10 @@
             "gold": [
                 "Hamas has revised its stance over the years, showing more support for peaceful coexistence in the region with Israel."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "2": {
             "history": [
@@ -2543,18 +2503,10 @@
             "gold": [
                 "Jordan and Turkey are unlikely to be acceptable mediators for Israel, as the former has previously waged war on Israel and the latter has tacitly supported Hamas , which Israel considers a terrorist organisation."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "3": {
             "history": [
@@ -2584,18 +2536,10 @@
                 "The principle of sovereignty refers to internal matters and does not apply when countries are engaged in external conflict.",
                 "Russia violated the sovereignty of Ukraine by invading it and, hence, does not deserve to have its sovereignty respected."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "4": {
             "history": [
@@ -2624,18 +2568,10 @@
             "gold": [
                 "HBO's adaptations often tend to prioritise making content suitable for modern audiences over faithfulness to the source material."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "5": {
             "history": [
@@ -2664,18 +2600,10 @@
             "gold": [
                 "The impact on Asian markets has been minimal due to differences in regulation and business models."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "6": {
             "history": [
@@ -2705,18 +2633,10 @@
                 "Other states helping Syria and Turkey have done so because of positive relations; the same does not apply to Syria.",
                 "While many countries have supported, not all of them had the capacity to help as the EU does."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "7": {
             "history": [
@@ -2746,18 +2666,10 @@
                 "The IMF has said it has modified its approach to better suit the unique circumstances of borrower nations.",
                 "The IMF's approaches are based on policies responsible for the success of developing nations."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "8": {
             "history": [
@@ -2787,18 +2699,10 @@
                 "Equality of skill or ability is neither present nor important in the creative industry.",
                 "ChatGPT is poor at writing poetry ."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "9": {
             "history": [
@@ -2828,18 +2732,10 @@
                 "The EU's primary objective is to create economic prosperity for its member states.",
                 "The EU's member states have a shared history and cultural ties that non-member countries do not share."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "10": {
             "history": [
@@ -2868,18 +2764,10 @@
             "gold": [
                 "Hamas has historically shown willingness to accept a Palestinian state along 1967 borders, which would imply a tacit recognition of Israel."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "11": {
             "history": [
@@ -2909,18 +2797,10 @@
                 "In a survey , respondents valued man-made artwork three times as much as AI-generated art.",
                 "According to Harvard psychologist Steven Pinker, authentic human connection in writing is irreplaceable by any technology."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "12": {
             "history": [
@@ -2949,18 +2829,10 @@
             "gold": [
                 "Most of the statements submitted as showing genocidal intent would more accurately count as political rhetoric rather than military policy."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "13": {
             "history": [
@@ -2990,18 +2862,10 @@
                 "The EU placed sanctions on Syria in concert with other countries and hence the other countries are likely to suspend the sanctions in a similar manner.",
                 "Assistance for earthquake victims was exempt from American sanctions against Syria, right after similar exemptions were made by the EU."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "14": {
             "history": [
@@ -3030,18 +2894,10 @@
             "gold": [
                 "We should not base our predictions on the future of AI technology on those who are not experts in the industry."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "15": {
             "history": [
@@ -3070,18 +2926,10 @@
             "gold": [
                 "Developing economies require protectionist measures to safeguard and foster their industries, contrary to the IMF's opposition to lowering trade barriers."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "16": {
             "history": [
@@ -3110,18 +2958,10 @@
             "gold": [
                 "Surveys have found that when given a choice, most students prefer corporal punishment and show an understanding of its value."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "17": {
             "history": [
@@ -3152,18 +2992,10 @@
                 "Tech stocks have so far been less affected by the ongoing turmoil in financial markets than other assets.",
                 "Nearly everyone in the US owns a smartphone, up from just over one-third in 2011. This is one indication that technology has become central to the average individual's life."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "18": {
             "history": [
@@ -3192,18 +3024,10 @@
             "gold": [
                 "It does not matter whether the agreed-upon course of action is right in an objective sense, something which is impossible to ascertain anyway. From the subjective perspective of the majority of Finnish voters, joining NATO was indeed the correct choice."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "19": {
             "history": [
@@ -3232,18 +3056,10 @@
             "gold": [
                 "Despite the significant combat operation underway in Ukraine, Russia has a vast population and can theoretically call upon 31 million reserve fighters in the event of a full mobilization."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "20": {
             "history": [
@@ -3272,18 +3088,10 @@
             "gold": [
                 "In addition to the deaths, about 240 civilians were also kidnapped , which also falls outside the confines of just warfare."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "21": {
             "history": [
@@ -3312,18 +3120,10 @@
             "gold": [
                 "There are too many ideological similarities between Afrikaners and Zionists for South Africa to remain silent on Israel's oppression of Palestinians. For example, like Zionists, Afrikaners believed that they had a divine right to the land."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "22": {
             "history": [
@@ -3352,18 +3152,10 @@
             "gold": [
                 "ChatGPT can provide reminders and prompts to help people with ADHD stay on task and assist in time management and goal setting, which are real struggles that people with ADHD face."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "23": {
             "history": [
@@ -3393,18 +3185,10 @@
                 "More people might be willing to commit minor infractions if they believe that ChatGPT can help them escape paying a fine.",
                 "Fines imposed by the state typically go to public services . If more people opt out of paying fines using ChatGPT, the state will have less money for public services that benefit everyone."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "24": {
             "history": [
@@ -3433,18 +3217,10 @@
             "gold": [
                 "Given the absence of a unilateral recognition of the Palestinian state, the international community cannot recognize any political group claiming authority over Palestine as a legitimate state actor."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "2"
-            ],
-            "best_overall": [
-                "2"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "25": {
             "history": [
@@ -3473,18 +3249,10 @@
             "gold": [
                 "When the IMF program fails to establish long-term economic stability, it is probable that investor confidence will be undermined (p.p. 2-3 )."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "26": {
             "history": [
@@ -3513,18 +3281,10 @@
             "gold": [
                 "As rogue AI tools are swiftly shut down, it alleviates public concern and anxiety around increasing dependence on AI."
             ],
-            "relevance": [
-                "2"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "27": {
             "history": [
@@ -3553,18 +3313,10 @@
             "gold": [
                 "Insofar as we lack epistemic access to the preferences of each individual voter and therefore cannot adjudicate between their relative moral worth, it is best to default to the will of the majority of society, whose preferences on aggregate reflect the broadest swathe of preferences of society."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "1"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "28": {
             "history": [
@@ -3593,18 +3345,10 @@
             "gold": [
                 "The amount of resources NATO dedicates to Finland could change very quickly depending on how the war evolves, making it impossible to predict whether or not NATO will continue to direct the majority of its resources towards Ukraine in the coming years."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         },
         "29": {
             "history": [
@@ -3633,18 +3377,10 @@
             "gold": [
                 "One US Senator argued that strengthening European forces would make the US vulnerable to Chinese military aggression ."
             ],
-            "relevance": [
-                "1"
-            ],
-            "argumentativeness": [
-                "2"
-            ],
-            "factuality": [
-                "1"
-            ],
-            "best_overall": [
-                "1"
-            ]
+            "relevance": [],
+            "argumentativeness": [],
+            "factuality": [],
+            "best_overall": []
         }
     }
 }
